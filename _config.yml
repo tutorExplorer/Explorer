@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: " "
+baseurl: "/Explorer"
+url: "https://tutorExplorer.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title:                                    # site's title
