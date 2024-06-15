@@ -1,8 +1,8 @@
 ---
-title: ' Cara Menargetkan Kata Kunci dan Menjadi Peringkat 1 di Pencarian Google'
+title: 'Cara Menargetkan Kata Kunci dan Menjadi Peringkat 1 di Pencarian Google'
 date: 2023-02-16T18:41:00.012-08:00
 draft: false
-url: /2023/02/-Cara-Menargetkan-Kata-Kunci-dan-Menjadi-Peringkat-1-di-Pencarian-Google.html
+url: Cara-Menargetkan-Kata-Kunci-dan-Menjadi-Peringkat-1-di-Pencarian-Google
 tags: 
 - INDEX
 - SEO
